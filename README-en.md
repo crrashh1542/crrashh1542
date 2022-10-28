@@ -17,4 +17,4 @@ Thank u for coming here for a visit!☺️ It'll be nice of u if you give me enc
     - Vue 3 Framework
     - Axios
     - Typescript
-- 🧐 Needs：Yep i'm lack of friends:( , i really really really want to make friends with you guys!
+- 🧐 Needs：Yep i'm lack of friends:( , i really really really want to make friends with you（and help me with code）!
