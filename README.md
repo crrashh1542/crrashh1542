@@ -9,7 +9,7 @@
     - Java（一点点）
     - PHP（一点点）
     - Golang / Python / C# （仅限于 HelloWorld程度）
-- 📬 联系方式：详见 [https://www.crrashh1542.top/contacts/](https://www.crrashh1542.top/contacts/)
+- 📬 联系方式：详见 [https://blogs.crrashh.cn/archives/12](https://blogs.crrashh.cn/archives/12)
 - 📖 目前学历：普高高一
 - ❤️ 爱好：敲代码 / 周杰伦的歌 / 画画（但是画渣）
 - 🔭 正在/打算学习的技术：
