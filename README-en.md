@@ -9,12 +9,12 @@ Thank u for coming here for a visit!☺️ It'll be nice of u if you give me enc
     - Java（a little）
     - PHP（also a little）
     - Golang / Python / C# （only HelloWorld）
-- 📬 Contacts：See at [https://www.crrashh1542.top/contacts/](https://www.crrashh1542.top/contacts/)
+- 📬 Contacts：See at [https://blogs.crrashh.cn/archives/12](https://blogs.crrashh.cn/archives/12)
 - 📖 Studying：Grade 1 in senior high
-- ❤️ Habits：coding / listening to songs by Jay Chou
+- ❤️ Habits：coding / songs by Jay Chou
 - 🔭 Technology to study：
     - Vite
     - Vue 3 Framework
     - Axios
     - Typescript
-- 🧐 Needs：Yep i'm lack of friends:( , i really really really want to make friends with you（and help me with code）!
+- 🧐 Needs：i'm lack of friends:( , i really really really want to make friends with you（and help me with code）!
