@@ -1,15 +1,19 @@
-### Hello! So happy to meet you! 🥰  
+<h2 align="center"> Hello! So happy to meet you! 🥰  </h2>
 🌐 Click [>>here<<](https://github.com/crrashh1542/crrashh1542/blob/main/README-en.md) for English version.  
   
 <p align="center">
   <a href="https://www.crrashh.cn">小站</a> | 
   <a href="https://blogs.crrashh.cn">博客</a>
 </p>
+  
+### 说在前面
 首先，感谢各位大佬们能够来这里一看☺️，如果能给个 Follow 鼓励我在编程的道路上越走越远（bushi）的话，小的真的感激不尽🙏  
 
 ### Github Stats
-![统计](https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&theme=dracula)  
+![统计](https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&theme=dracula)
 ![语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact)
+
+### 关于我
 - 👨‍💻 技术栈：
     - 基本 HTML 和 Javascript ES6+
     - Vue 2 & 3 框架
