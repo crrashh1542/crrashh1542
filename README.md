@@ -1,5 +1,4 @@
 <h2 align="center"> Hello! So happy to meet you! 🥰  </h2>
-🌐 Click [>>here<<](https://github.com/crrashh1542/crrashh1542/blob/main/README-en.md) for English version.  
   
 <p align="center">
   <a href="https://www.crrashh.cn">小站</a> | 
