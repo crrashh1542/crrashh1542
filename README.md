@@ -1,4 +1,4 @@
-<h2 align="center"> Hello! So happy to meet you! 🥰  </h2>
+<h2 align="center">👋 So glad to meet you!</h2>
   
 <p align="center">
   <a href="https://www.crrashh.cn">小站</a> | 
@@ -21,9 +21,9 @@
     - Golang / Python / C# （仅限于 HelloWorld程度）
 - 📬 联系方式：详见 [https://blogs.crrashh.cn/archives/12](https://blogs.crrashh.cn/archives/12)
 - 📖 目前学历：普高高一
-- ❤️ 爱好：敲代码 / 周杰伦的歌 / 画画（但是画渣）
+- ❤️ 爱好：敲代码 / 乒乓球 / 周杰伦的歌 / 画画（但是画渣）
 - 🔭 正在/打算学习的技术：
     - Vite 打包工具
     - Axios
     - Typescript
-- 🧐 需求：本咕真的真的真的很想和各位大佬们交个朋友！！！（网友少得可怜的屑）
+- 🧐 需求：真的真的真的很想和各位大佬们交个朋友！！！（网友少得可怜的屑）
