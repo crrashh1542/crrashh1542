@@ -1,4 +1,4 @@
-### 🐱 Glad to meet you! 🐱
+## 🐱 Glad to meet you! 🐱
   
 <p align="center">
   <a href="https://www.crrashh.cn">小站</a> | 
@@ -23,7 +23,7 @@
 - 📖 目前学历：普高高一
 - ❤️ 喜爱：敲代码 / 乒乓球 / 周杰伦 / 画画（但是画渣）
 - 🔭 正在/打算学习的技术：
-    - Vite 打包工具
-    - Axios
+    - Vite
+    - 高级 Javascript
     - Typescript
 - 🧐 需求：真的真的真的很想和各位大佬们交个朋友ヾ(´∀｀。ヾ)
