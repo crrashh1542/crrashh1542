@@ -1,4 +1,4 @@
-## 🐱 Glad to meet you! 🐱
+## 🐱 Glad to meet you!
   
 <p align="center">
   <a href="https://www.crrashh.cn">小站</a> | 
