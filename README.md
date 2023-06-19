@@ -8,9 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat)
   
-Glad to meet you and my name is 云萧, a.k.a. Kotsuki Crrashh.  
+Glad to meet you, and my name is 云萧, a.k.a. Kotsuki Crrashh.  
 
-I am a pigeon(?) who is always trying to learn sth., while is also making his way to overcome procrastination. ~~Your Follow does help to speed up it!!~~  
+I am a pigeon(?) who is always trying to learn sth., while is also making my" way to overcome procrastination. ~~Your Follow does help to speed up it!!~~  
 
 Many thanks for your coming! If you would like be my friend, it will be greeeaaatly pleasant for me! :)
 
@@ -22,7 +22,7 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
   - 16 y.o. in senior high school in Sichuan, China.
   - A fan of Jay Chou, who likes Chinese song while not interested in foreign songs.
   - I like watching bangumis esp. ones about daily life (e.g. Kobayashi-san Chi no Meidoragon).
-  - I always stay fresh on new things ~~and willing to learn~~
+  - I always stay fresh on new things ~~and willing to learn them~~.
     
 ### 🖥️ Languages using
 Already/Half skilled:  
