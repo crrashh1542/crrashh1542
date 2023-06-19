@@ -25,7 +25,7 @@
   - 对所有事物保持新鲜~~，比较乐于学习新事物~~。
     
 ### 🖥️ 技术栈
-已经/半掌握：
+已/半掌握：  
 ![HTML 5](https://img.shields.io/badge/-HTML5-e45127?style=flat-square&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS3-339bd4?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
@@ -34,7 +34,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=white)
   
-正在/打算学习（按顺序）：
+正在/打算学习（按顺序）：  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-ff3334?style=flat-square&logo=rollup.js&logoColor=white)
