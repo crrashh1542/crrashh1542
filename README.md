@@ -24,7 +24,7 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
   - I like watching bangumis esp. ones about daily life (e.g. Kobayashi-san Chi no Meidoragon).
   - I always stay fresh on new things ~~and willing to learn them~~.
     
-### 🖥️ Languages using
+### 🖥️ Development using
 Already/Half skilled:  
 ![HTML 5](https://img.shields.io/badge/-HTML5-e45127?style=flat-square&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS3-339bd4?style=flat-square&logo=css3&logoColor=white)
