@@ -6,7 +6,7 @@
    <a href="README.md">English</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat">
+![](https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat)
   
 很高兴认识你，我是云萧，你亦可称呼我 Kotsuki Crrashh。  
 
@@ -19,21 +19,21 @@
 ![语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact)
 
 ### 👀 关于我
-    - 今年 16，高中。
-    - 杰迷，听华语，不是很喜欢听外语音乐。
-    - 平常追番，喜欢偏日常的番剧，也许是 2.5 次元。
-    - 对所有事物保持新鲜~~，比较乐于学习新事物~~。
+  - 今年 16，高中。
+  - 杰迷，听华语，不是很喜欢听外语音乐。
+  - 平常追番，喜欢偏日常的番剧（比如龙女仆），也许是 2.5 次元。
+  - 对所有事物保持新鲜~~，比较乐于学习新事物~~。
     
 ### 🖥️ 技术栈
 已经/半掌握：
-    - HTML 5 & CSS 3
-    - JavaScript ES6+
-    - Vue（但是不多）
-    - Java（一点点）
+  - HTML 5 & CSS 3
+  - JavaScript ES6+
+  - Vue（但是不多）
+  - Java（一点点）
   
 正在/打算学习（按顺序）：
-    - Vue Router & Piana
-    - Rollup & Vite
-    - React
-    - Electron
-    - GoLang
+  - Vue Router & Piana
+  - Rollup & Vite
+  - React
+  - Electron
+  - GoLang
