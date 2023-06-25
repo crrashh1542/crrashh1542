@@ -1,12 +1,12 @@
 # 👋 哈喽！
   
 <p align="center">
-   [小站](https://crrashh.com) | 
-   [博客](https://blog.crrashh.com) | 
-   [English](./README.md)
+   <a href="https://crrashh.com">小站</a> | 
+   <a href="https://blog.crrashh.com">博客</a> | 
+   <a href="./README.md">English</a>
 </p>
 <p align="center">
-   ![](https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat)
+   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat">
 </p>
   
 ### 🌱 关于我
