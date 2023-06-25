@@ -1,14 +1,18 @@
 # 👋 Hi there!
   
 <p align="center">
-   <a href="https://crrashh.com">Site</a> | 
-   <a href="https://blog.crrashh.com">Blog</a> | 
-   <a href="./README.zh.md">简体中文</a>
+   [Site](https://crrashh.com) | 
+   [Blog](https://blog.crrashh.com) | 
+   [简体中文](./README.zh.md)
+</p>
+<p align="center">
+   ![](https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat)
 </p>
   
+### 🌱 About me
 Glad to meet you! This is 云萧, a.k.a. Kotsuki Crrashh.  
 
-I am a pigeon(?) always trying to learn sth. new, and is also doing my best to overcome procrastination. ~~Your Follow does help to speed up it!!~~  
+I am currently 16 y.o. in senior high in Sichuan, China. To be a pigeon(?), I am always trying to learn sth. new, and is also doing my best to overcome procrastination. ~~Your Follow does help to speed it up!!~~  
 
 Many thanks for your coming! If you would like be my friend, it will be greeeaaatly pleasant for me! :)
 
@@ -16,10 +20,10 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![Development Statistics](https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact)
 
-### 👀 About me
-  - 16 y.o. in senior high in Sichuan, China.
-  - I am fan of Jay Chou, and loves Chinese song while not so interested in foreign ones.
-  - I like watching bangumis esp. ones about daily life (e.g. Kobayashi-san Chi no Meidoragon).
+### 👀 Preferences
+  - I am a fan of Jay Chou, and loves Chinese song while not so interested in foreign ones.
+  - I am keen on watching bangumis esp. ones about daily life (e.g. Kobayashi-san Chi no Meidoragon).
+  - I like games with higher degree of freedom or marvelous stories.
   - I always stay fresh on new things ~~and willing to learn them~~.
     
 ### 🖥️ Programming status
@@ -40,6 +44,3 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
-  
-
-Made with friendliness🥰 & love❤️. ![](https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat)
