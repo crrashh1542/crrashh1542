@@ -21,8 +21,8 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact)
 
 ### 👀 Preferences
-  - I am a fan of Jay Chou, and loves Chinese song while not so interested in foreign ones.
-  - I am keen on watching bangumis esp. ones about daily life (e.g. Kobayashi-san Chi no Meidoragon).
+  - I am a fan of **Jay Chou and JJ Lin**, and loves Chinese song while not so interested in foreign ones.
+  - I am keen on watching bangumis esp. ones about daily life (e.g. my favorite **Kobayashi-san Chi no Meidoragon**).p
   - I like games with higher degree of freedom or marvelous stories.
   - I always stay fresh on new things ~~and willing to learn them~~.
     
