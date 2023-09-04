@@ -6,7 +6,10 @@
    <a href="./README.md">English</a>
 </p>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat">
+   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github">
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542">
 </p>
   
 ### 🌱 关于我
@@ -45,8 +48,16 @@
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
 
+这个笨蛋正在用的：  
+![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![MIUI 14](https://img.shields.io/badge/MIUI%2014-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
+![Windows 11 Dev](https://img.shields.io/badge/Windows%2011%20Dev-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+
 ### ⚠️ 个人向雷点
 * 不是很理解在日常说话中的英文与中文间加空格，更偏向于在正式的文章/项目中使用，这就跟书面用语和口语一个道理。
 * 极力反对在中文语境中，使用英语替代原本可用中文表达的词语。
   
-对于上述两种行为 **（尤其是后者）**，我自认为是在别人面前装很没有格调的降智逼。如果你恰好有这些说话习惯，你可能不适合与我做朋友 :(
+对于上述两种行为 **（尤其是后者）**，我自认为是在别人面前装很没有格调的降智逼。如果你恰好有这些说话习惯，我可能不适合与你做朋友 :(
