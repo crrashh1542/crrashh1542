@@ -1,5 +1,5 @@
 # 👋 哈喽！
-  
+
 <p align="center">
    <a href="https://crrashh.com">小站</a> | 
    <a href="https://blog.crrashh.com">博客</a> | 
@@ -12,9 +12,7 @@
 ### 🌱 关于我
 很高兴认识你，我是云萧，你亦可称呼我 Kotsuki Crrashh。  
 
-今年 16，坐标四川，是个苦逼高中牲。作为一只咕咕咕，我正在努力学习新东西，并且尝试克服拖延症。~~你可以通过 Follow 使他加速摆脱拖延症。~~  
-
-讨厌在日常说话中的英文与中文间加空格，更偏向于在正式的文章/项目中使用，这就跟书面用语和口语一个道理。同时我极力反对在中文语境中，使用英语替代原本可用中文表达的词语。对于上述两种行为 我私以为是在别人面前装很没有格调的降智逼。
+今年 16，坐标四川，苦逼高中牲，分科物化生。作为一只咕咕咕，我正在努力学习新东西，并且尝试克服拖延症。~~你可以通过一个简简单单的 Follow 或小星星使他加速摆脱拖延症。~~  
 
 感谢各位大佬小佬来参观。如果可以的话，我很乐意和大佬们交个朋友的说！  
 
@@ -23,8 +21,8 @@
 ![语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact)
 
 ### 👀 喜好
-  - 杰迷，听华语，不是很喜欢听外语音乐。
-  - 平常追番，喜欢偏日常的番剧（比如龙女仆），也许是 2.5 次元。
+  - Jay & JJ 双杰迷，听华语，基本不听也不很喜欢听外语音乐。
+  - 平常追点番，喜欢偏日常的番剧 **（此生最喜欢妹抖龙！）**，也许是 2.5 次元。
   - 喜欢打一些自由度较高或剧情精彩的游戏。
   - 对所有事物保持新鲜 ~~，比较乐于学习新事物~~。
     
@@ -46,3 +44,9 @@
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
+
+### ⚠️ 个人向雷点
+* 不是很理解在日常说话中的英文与中文间加空格，更偏向于在正式的文章/项目中使用，这就跟书面用语和口语一个道理。
+* 极力反对在中文语境中，使用英语替代原本可用中文表达的词语。
+  
+对于上述两种行为 **（尤其是后者）**，我自认为是在别人面前装很没有格调的降智逼。如果你恰好有这些说话习惯，你可能不适合与我做朋友 :(
