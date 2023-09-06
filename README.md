@@ -6,7 +6,10 @@
    <a href="./README.zh.md">简体中文</a>
 </p>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat">
+   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github">
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542">
 </p>
   
 ### 🌱 About me
@@ -44,3 +47,11 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
+
+**Environments currently using**:  
+![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![MIUI 14](https://img.shields.io/badge/MIUI%2014-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
+![Windows 11 Dev](https://img.shields.io/badge/Windows%2011%20Dev-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
