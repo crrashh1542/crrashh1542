@@ -25,8 +25,8 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 
 ### 👀 Preferences
   - I am a fan of **Jay Chou and JJ Lin**, and loves Chinese song while not so interested in foreign ones.
-  - I am keen on watching bangumis esp. ones about daily life (e.g. my favorite **Kobayashi-san Chi no Meidoragon**).p
-  - I like games with higher degree of freedom or marvelous stories.
+  - I am keen on watching bangumis esp. ones about daily life (p.s. I love **Kobayashi-san Chi no Meidoragon** best!!!).
+  - I like video games with higher degree of freedom or marvelous stories.
   - I always stay fresh on new things ~~and willing to learn them~~.
     
 ### 🖥️ Programming status
@@ -54,4 +54,4 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
-![Windows 11 Dev](https://img.shields.io/badge/Windows%2011%20Dev-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Dev Channel](https://img.shields.io/badge/Windows%2011%20%28Dev%20Channel%29-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
