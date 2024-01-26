@@ -1,11 +1,11 @@
 # 哈喽！👋🏻
 
-<p align="center">
-   「醉后不知天在水，满船清梦压星河。」
-</p>
+<p align="center">醉后不知天在水，满船清梦压星河。</p>
+<p align="right"><i>——〔元〕唐珙《题龙阳县青草湖》</i></p>
+<br/>
 
 <p align="center">
-   <a href="https://crrashh.com">小站</a> | 
+   <a href="https://www.crrashh.com">小站</a> | 
    <a href="https://blog.crrashh.com">博客</a> | 
    <a href="./README.md">English</a>
 </p>
@@ -54,11 +54,11 @@
 
 这个笨蛋正在用的：  
 ![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![MIUI 14](https://img.shields.io/badge/MIUI%2014-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![HyperOS 1.0](https://img.shields.io/badge/HyperOS%201.0-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
-![Windows 11 Dev](https://img.shields.io/badge/Windows%2011%20Dev-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
 
 ### ⚠️ 个人向雷点
 * 不是很理解在**日常说话**中的英文与中文间加空格，我更偏向于在正式的文章/项目中使用，这就跟书面用语和口语一个道理。
@@ -66,4 +66,4 @@
   
 对于上述两种行为，吾私以为是在刻意制造与对话者的**隔阂与代沟**。另外，后者给我的感觉就是纯装逼，即使长期在外企公司工作养成了这种习惯。如果你恰好有这些说话习惯，我可能不适合与你交往 :(
 
-我们什么时候开始不能好好说话了呢...？
+我们什么时候开始不能正常地说话了呢...？
