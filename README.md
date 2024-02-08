@@ -6,26 +6,25 @@
   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github" />
 </p><br/>
   
-耶！劳资是个可爱的托林厨！
+耶！劳资是个可爱到爆的托林厨！🥰
 <p align="center">
   <img src="https://i.cdn.crrashh.com/2024/0209/5d14acea-7dfb-dd99-11a3-d0f2c34129c4.jpg" />
 </p><br/>
 
-耶！劳资是个帅得起飞的杰迷！
+耶！劳资是个帅得抠脚的杰迷！🤠
 <p align="center">
-  <img src="https://i.cdn.crrashh.com/2024/0209/c9d7eaba-b348-4ad4-b45c-0d1e98b023af.jpg" />
-</p>
+  <img src="https://i.cdn.crrashh.com/2024/0209/c9d7eaba-b348-4ad4-b45c-0d1e98b023af.jpg"/>
+</p><br/>
 
-耶！劳资是个勤劳的程序猿！
+耶！劳资是个喜欢发什京的程序猿！🤪
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-</p>
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+</p><br/>
 
-### 已经修得的技能
+### [技能树] 已修得
 ![HTML 5](https://img.shields.io/badge/-HTML5-e45127?style=flat-square&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS3-339bd4?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
@@ -34,7 +33,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=white)
   
-### 已点的技能树
+### [技能树] 已点
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-ff3334?style=flat-square&logo=rollup.js&logoColor=white)
@@ -43,7 +42,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
 
-### 恶劣的工作环境
+### [运行环境] 伊拉克
 ![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Flyme 9.3](https://img.shields.io/badge/Flyme%209.3-00c7fd?style=flat-square&logo=meizu&logoColor=ffffff)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
