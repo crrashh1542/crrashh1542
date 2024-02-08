@@ -1,36 +1,31 @@
-# 👋 Hi there!
+## 🕊️ 这里是只咕咕！
   
 <p align="center">
-   <a href="https://crrashh.com">Site</a> | 
-   <a href="https://blog.crrashh.com">Blog</a> | 
-   <a href="./README.zh.md">简体中文</a>
-</p>
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github">
-</p>
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542">
-</p>
+   <a href="https://blog.crrashh.com">博客</a> | 
+   <a href="./README.en.md">English</a> |
+  <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github" />
+</p><br/>
   
-### 🌱 About me
-Glad to meet you! This is 云萧, a.k.a. Kotsuki Crrashh.  
+耶！劳资是个可爱的托林厨！
+<p align="center">
+  <img src="https://i.cdn.crrashh.com/2024/0209/5d14acea-7dfb-dd99-11a3-d0f2c34129c4.jpg" />
+</p><br/>
 
-I am currently 16 y.o. in senior high in Sichuan, China. To be a pigeon(?), I am always trying to learn sth. new, and is also doing my best to overcome procrastination. ~~Your Follow does help to speed it up!!~~  
+耶！劳资是个帅得起飞的杰迷！
+<p align="center">
+  <img src="https://i.cdn.crrashh.com/2024/0209/c9d7eaba-b348-4ad4-b45c-0d1e98b023af.jpg" />
+</p>
 
-Many thanks for your coming! If you would like be my friend, it will be greeeaaatly pleasant for me! :)
+耶！劳资是个勤劳的程序猿！
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+</p>
+<br/>
 
-### 🔢 Statistics
-![Development Statistics](https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact)
-
-### 👀 Preferences
-  - I am a fan of **Jay Chou and JJ Lin**, and loves Chinese song while not so interested in foreign ones.
-  - I am keen on watching bangumis esp. ones about daily life (p.s. I love **Kobayashi-san Chi no Meidoragon** best!!!).
-  - I like video games with higher degree of freedom or marvelous stories.
-  - I always stay fresh on new things ~~and willing to learn them~~.
-    
-### 🖥️ Programming status
-**Already/Half skilled**:  
+### 已经修得的技能
 ![HTML 5](https://img.shields.io/badge/-HTML5-e45127?style=flat-square&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS3-339bd4?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
@@ -39,7 +34,7 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=white)
   
-**Unskilled & Planned to study**:  
+### 已点的技能树
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-ff3334?style=flat-square&logo=rollup.js&logoColor=white)
@@ -48,10 +43,12 @@ Many thanks for your coming! If you would like be my friend, it will be greeeaaa
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
 
-**Environments currently using**:  
+### 恶劣的工作环境
 ![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![HyperOS 1](https://img.shields.io/badge/HyperOS%201-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Flyme 9.3](https://img.shields.io/badge/Flyme%209.3-00c7fd?style=flat-square&logo=meizu&logoColor=ffffff)
+![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
-![Windows 11 Dev Channel](https://img.shields.io/badge/Windows%2011%20%28Dev%20Channel%29-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+
+<font size="1">* 图1作品ID为115746769，图2搜集自网络，若有侵权联系删除</font>
