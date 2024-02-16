@@ -11,7 +11,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews"/>
 </p><br/>
 
 #### [用户系统][身份]托林厨！🥰
@@ -66,7 +66,8 @@
    "sex": "男",
    "age": 16,
    "identity": "高中生",
-   "location": "中国，四川省"
+   "personality": "ENFP-T",
+   "location": "银河系，地球，中国，四川省"
 }
 ```
 
