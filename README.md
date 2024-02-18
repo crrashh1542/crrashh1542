@@ -6,12 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github" />
 </p><br/>
 
+<div align="center">五陵年少金市东，银鞍白马度春风。</div>
+<div align="center">落花踏尽游何处，笑入胡姬酒肆中。</div>
+<p align="right"><i>——〔唐〕李白《少年行》</i></p><br />
+
 #### [用户系统][身份]程序猿！👨🏻‍💻
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage&locale=cn"/>
 </p><br/>
 
 #### [用户系统][身份]托林厨！🥰
@@ -38,7 +42,7 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
   
-#### [生涯系统][技能树]已点
+#### [生涯系统][技能树]正在修得
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-4fc08d?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -53,7 +57,8 @@
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 23H2](https://img.shields.io/badge/Windows%2011%2023H2-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%2023.10-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 #### [用户系统]基本信息
 ```json
