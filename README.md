@@ -60,7 +60,7 @@
 ![Windows 11 23H2](https://img.shields.io/badge/Windows%2011%2023H2-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%2023.10-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
-#### [用户系统]基本信息
+#### [用户系统]基本信息 
 ```json
 {
    "id": "crrashh1542",
