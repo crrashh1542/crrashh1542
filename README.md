@@ -69,9 +69,9 @@
       "en": "Kotsuki Crrashh"
    },
    "sex": "男",
-   "age": 16,
+   "age": 17,
    "identity": "高中生",
-   "personality": "ENFP-T",
+   "mbti": "ENFP-T",
    "location": "银河系，地球，中国，四川省"
 }
 ```
