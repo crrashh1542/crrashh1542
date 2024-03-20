@@ -12,20 +12,18 @@
 
 #### [用户系统][身份]程序猿！👨🏻‍💻
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage&locale=cn"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage&locale=cn" width="46%" />
 </p><br/>
 
-#### [用户系统][身份]托林厨！🥰
+#### [用户系统][身份]龙&林厨！🥰
 <p align="center">
-  <img src="https://i.cdn.crrashh.com/2024/0209/5d14acea-7dfb-dd99-11a3-d0f2c34129c4.jpg" />
+  <img src="https://s2.loli.net/2024/03/20/youB8MOrQTtIfzG.webp" width="60%" />
 </p><br/>
 
 #### [用户系统][身份]杰迷！🤠
 <p align="center">
-  <img src="https://i.cdn.crrashh.com/2024/0209/c9d7eaba-b348-4ad4-b45c-0d1e98b023af.jpg"/>
+  <img src="https://s2.loli.net/2024/03/20/2xag4vJ6GCjkKET.jpg" width="60%" />
 </p><br/>
 
 #### [生涯系统][技能树]已修得/部分修得
