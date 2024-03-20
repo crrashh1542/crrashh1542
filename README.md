@@ -14,17 +14,17 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" width="46%" />
   <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage&locale=cn" width="46%" />
-</p><br/>
+</p>
 
-#### [用户系统][身份]龙&林厨！🥰
+#### [用户系统][身份]托林厨！🥰
 <p align="center">
-  <img src="https://s2.loli.net/2024/03/20/youB8MOrQTtIfzG.webp" width="60%" />
-</p><br/>
+  <img src="https://s2.loli.net/2024/03/20/youB8MOrQTtIfzG.webp" width="70%" />
+</p>
 
 #### [用户系统][身份]杰迷！🤠
 <p align="center">
-  <img src="https://s2.loli.net/2024/03/20/2xag4vJ6GCjkKET.jpg" width="60%" />
-</p><br/>
+  <img src="https://s2.loli.net/2024/03/20/2xag4vJ6GCjkKET.jpg" width="70%" />
+</p>
 
 #### [生涯系统][技能树]已修得/部分修得
 ![HTML 5](https://img.shields.io/badge/-HTML5-e45127?style=flat-square&logo=html5&logoColor=white)
@@ -74,4 +74,4 @@
 }
 ```
 
-<font size="1">* 图1作品ID为115746769，图2搜集自网络，若有侵权联系删除</font>
+<font size="1">* 头像来自Pixiv作品ID[91523978](https://www.pixiv.net/artworks/91523978)，图1来自Pixiv作品ID[94877820](https://www.pixiv.net/artworks/94877820)，图2搜集自网络，若有侵权联系删除</font>
