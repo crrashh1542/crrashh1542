@@ -27,28 +27,26 @@
 </p>
 
 #### [生涯系统][技能树]已修得/部分修得
-![HTML 5](https://img.shields.io/badge/-HTML5-e45127?style=flat-square&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/-CSS3-339bd4?style=flat-square&logo=css3&logoColor=white)
+![H5+C3](https://img.shields.io/badge/-H5+C3-e45127?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript ESM](https://img.shields.io/badge/-JavaScript%20ESModule-f7df1e?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)
-![Less](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-eeeeee?style=flat-square&logo=express&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-ff3334?style=flat-square&logo=rollup.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
   
 #### [生涯系统][技能树]正在修得
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-eeeeee?style=flat-square&logo=express&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-4fc08d?style=flat-square&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
-
+![Gin](https://img.shields.io/badge/-Gin-73cddd?style=flat-square&logo=gin&logoColor=white)
 #### [服务器提示][运行环境]伊拉克
 ![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Flyme 9.3](https://img.shields.io/badge/Flyme%209.3-00c7fd?style=flat-square&logo=meizu&logoColor=ffffff)
