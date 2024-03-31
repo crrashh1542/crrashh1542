@@ -10,6 +10,12 @@
 <div align="center">落花踏尽游何处，笑入胡姬酒肆中。</div>
 <p align="right"><i>——〔唐〕李白《少年行》</i></p><br />
 
+### [用户系统][属性]兴趣
+```js
+export default [
+   '前端', 'Android内核'
+]
+```
 #### [用户系统][身份]程序猿！👨🏻‍💻
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" width="46%" />
@@ -57,18 +63,18 @@
 ![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%2023.10-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 #### [用户系统]基本信息 
-```json
-{
-   "id": "crrashh1542",
-   "name": {
-      "zh": "云萧是个咕咕怪",
-      "en": "Kotsuki Crrashh"
+```js
+export default {
+   id: 'crrashh1542',
+   name: {
+      zh: '云萧是个咕咕怪',
+      en: 'Kotsuki Crrashh'
    },
-   "sex": "男",
-   "age": 17,
-   "identity": "高中生",
-   "mbti": "ENFP-T",
-   "location": "银河系，地球，中国，四川省"
+   sex: '男',
+   age: 17,
+   identity: '高中生',
+   mbti: 'ENFP-T',
+   location: '银河系，地球，中国，四川省'
 }
 ```
 
