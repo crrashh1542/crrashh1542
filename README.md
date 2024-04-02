@@ -10,7 +10,7 @@
 <div align="center">落花踏尽游何处，笑入胡姬酒肆中。</div>
 <p align="right"><i>——〔唐〕李白《少年行》</i></p><br />
 
-### [用户系统][属性]兴趣
+### [用户系统][属性]兴趣爱好
 ```js
 export default [
    '前端', 'Android内核'
