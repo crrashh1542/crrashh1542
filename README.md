@@ -2,7 +2,7 @@
   
 <p align="center">
    <a href="https://blog.crrashh.com">博客</a> | 
-   <a href="./README.en.md">English</a> |
+   <a href="./README.en.md">English</a> | 
   <img src="https://komarev.com/ghpvc/?username=crrashh1542&label=Profile%20views&color=0e75b6&style=flat&color=green&logo=github" />
 </p><br/>
 
