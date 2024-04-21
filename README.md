@@ -10,27 +10,18 @@
 <div align="center">落花踏尽游何处，笑入胡姬酒肆中。</div>
 <p align="right"><i>——〔唐〕李白《少年行》</i></p><br />
 
-### [用户系统][属性]兴趣爱好
+#### [用户系统][身份]程序咕！👨🏻‍💻
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" width="46%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage&locale=cn" width="46%" />
+</p>
+
+#### [用户系统][属性]当前偏好
 ```js
 export default [
    '前端', 'Windows', 'Android内核'
 ]
 ```
-#### [用户系统][身份]程序猿！👨🏻‍💻
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage&locale=cn" width="46%" />
-</p>
-
-#### [用户系统][身份]托林厨！🥰
-<p align="center">
-  <img src="https://s2.loli.net/2024/03/20/youB8MOrQTtIfzG.webp" width="70%" />
-</p>
-
-#### [用户系统][身份]杰迷！🤠
-<p align="center">
-  <img src="https://s2.loli.net/2024/03/20/2xag4vJ6GCjkKET.jpg" width="70%" />
-</p>
 
 #### [生涯系统][技能树]已修得/部分修得
 ![H5+C3](https://img.shields.io/badge/-H5+C3-e45127?style=flat-square&logo=html5&logoColor=white)
@@ -44,7 +35,7 @@ export default [
 ![Piama](https://img.shields.io/badge/-Piama-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
-  
+
 #### [生涯系统][技能树]正在修得
 ![Express.js](https://img.shields.io/badge/-Express.js-eeeeee?style=flat-square&logo=express&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-4fc08d?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -53,6 +44,7 @@ export default [
 ![Electron](https://img.shields.io/badge/-Electron-2f3242?style=flat-square&logo=electron&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-73cddd?style=flat-square&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-73cddd?style=flat-square&logo=gin&logoColor=white)
+
 #### [服务器提示][运行环境]伊拉克
 ![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Flyme 9.3](https://img.shields.io/badge/Flyme%209.3-00c7fd?style=flat-square&logo=meizu&logoColor=ffffff)
