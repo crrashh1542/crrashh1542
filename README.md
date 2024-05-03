@@ -12,8 +12,8 @@
 
 #### [用户系统][身份]程序咕！👨🏻‍💻
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crrashh1542" width="46%" />
-   <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage&locale=cn" width="46%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage&locale=cn" width="43%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact&langs_count=10" width="41%" />
 </p>
 
 #### [用户系统][属性]当前偏好
