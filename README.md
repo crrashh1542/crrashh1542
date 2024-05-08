@@ -47,12 +47,11 @@ export default [
 
 #### [服务器提示][运行环境]伊拉克
 ![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ec6617?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Flyme 9.3](https://img.shields.io/badge/Flyme%209.3-00c7fd?style=flat-square&logo=meizu&logoColor=ffffff)
-![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
 ![Windows 11 23H2](https://img.shields.io/badge/Windows%2011%2023H2-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu%2023.10-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 #### [用户系统]基本信息 
 ```js
