@@ -71,4 +71,4 @@ export default {
 }
 ```
 
-<font size="1">* 头像来自Pixiv（作品ID：[91523978](https://www.pixiv.net/artworks/91523978)</font>
+<font size="1">* 头像来自Pixiv（作品ID：[91523978](https://www.pixiv.net/artworks/91523978)）</font>
