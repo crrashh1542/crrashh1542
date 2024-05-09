@@ -66,8 +66,9 @@ export default {
    age: 17,
    identity: '高中生',
    mbti: 'ENFP-T',
-   location: '银河系，地球，中国，四川省'
+   location: '银河系，地球，中国，四川省',
+   gpgPubKey: '7AF7 B8FD F51D 7B0E'
 }
 ```
 
-<font size="1">* 头像来自Pixiv作品ID[91523978](https://www.pixiv.net/artworks/91523978)，图1来自Pixiv作品ID[94877820](https://www.pixiv.net/artworks/94877820)，图2搜集自网络，若有侵权联系删除</font>
+<font size="1">* 头像来自Pixiv（作品ID：[91523978](https://www.pixiv.net/artworks/91523978)</font>
