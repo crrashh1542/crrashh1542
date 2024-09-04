@@ -19,7 +19,7 @@
 #### [用户系统][属性]当前偏好
 ```js
 export default [
-   '前端', 'Windows', 'Android内核'
+   '前端', 'Windows', 'Android'
 ]
 ```
 
@@ -51,7 +51,7 @@ export default [
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23a9f1?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Neutron Clang 19](https://img.shields.io/badge/Neutron%20Clang%2019-eeeeee?style=flat-square&logo=c&logoColor=black)
 ![Intel Xeon E3-1225v5](https://img.shields.io/badge/Intel%20Xeon%20E3%201225v5-00c7fd?style=flat-square&logo=intel&logoColor=ffffff)
-![Windows 11 23H2](https://img.shields.io/badge/Windows%2011%2023H2-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Canary](https://img.shields.io/badge/Windows%2011%20Canary-0e7fcf?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 #### [用户系统]基本信息 
@@ -62,13 +62,12 @@ export default {
       zh: '云萧是个咕咕怪',
       en: 'Kotsuki Crrashh'
    },
-   sex: '男',
    age: 17,
    identity: '高中生',
    mbti: 'ENFP-T',
-   location: '银河系，地球，中国，四川省',
+   location: '太阳系，地球，中国，四川省',
    gpgPubKey: '7AF7 B8FD F51D 7B0E'
 }
 ```
 
-<font size="1">* 头像来自Pixiv（作品ID：[91523978](https://www.pixiv.net/artworks/91523978)）</font>
+<font size="1">* 头像来自Pixiv（作品ID：[84681336](https://www.pixiv.net/artworks/84681336)）</font>
