@@ -9,13 +9,13 @@
 #### [User][Identity] Programming Lover! 👨🏻‍💻
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=crrashh1542&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage" width="43%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact&langs_count=10" width="41%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crrashh1542&layout=compact&langs_count=6&hide=C,Assembly,Shell,Perl,Makefile,Python,Roff,SmPL,Yacc,C%2B%2B" width="41%" />
 </p>
 
 #### [User][Properties] My preferences
 ```js
 export default [
-   'Front-end', 'Windows', 'Android kernels'
+   'Front-end', 'Windows', 'Android'
 ]
 ```
 
@@ -67,4 +67,4 @@ export default {
 }
 ```
 
-<font size="1">* Avatar comes from Pixiv (artwork ID: [91523978](https://www.pixiv.net/artworks/91523978)).</font>
+<font size="1">* Avatar comes from Pixiv (artwork ID: [84681336](https://www.pixiv.net/artworks/84681336)).</font>
