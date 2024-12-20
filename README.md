@@ -27,14 +27,10 @@ export default [
 ```js
 export default {
    id: 'crrashh1542',
-   name: {
-      zh: '云萧是个咕咕怪',
-      en: 'Kotsuki Crrashh'
-   },
+   name: '云萧咕咕',
    age: 17,
-   identity: '高中生',
    mbti: 'ENFP-T',
-   location: '太阳系，地球，中国，四川省',
+   isAntiLgbt: true,
    devEnv: '伊拉克级别',
    gpgPubKey: '7AF7 B8FD F51D 7B0E'
 }
