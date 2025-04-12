@@ -28,7 +28,7 @@ export default [
 export default {
    id: 'crrashh1542',
    name: '云萧咕咕',
-   age: 17,
+   age: 18,
    mbti: 'ENFP-T',
    isAntiLgbt: true,
    devEnv: '伊拉克级别',
