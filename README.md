@@ -32,7 +32,7 @@ export default {
    mbti: 'ENFP-T',
    isAntiLgbt: true,
    devEnv: '伊拉克级别',
-   gpgPubKey: '7AF7 B8FD F51D 7B0E'
+   gpgPubKey: 'A8B6 C17C B0D2 1DBC'
 }
 ```
 
