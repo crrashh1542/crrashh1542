@@ -1,5 +1,3 @@
-# 🕊️ 这里是只咕咕！
-  
 <p align="center">
    <a href="https://blog.crrashh.com">博客</a> | 
    <a href="./README.en.md">English</a> | 
@@ -30,8 +28,7 @@ export default {
    name: '云萧咕咕',
    age: 18,
    mbti: 'ENFP-T',
-   isAntiLgbt: true,
-   devEnv: '伊拉克级别',
+   devEnv: 'ASUS Tianxuan 6 Laptop Ryzen Edition',
    gpgPubKey: 'A8B6 C17C B0D2 1DBC'
 }
 ```
