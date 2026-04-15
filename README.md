@@ -26,11 +26,9 @@ export default [
 export default {
    id: 'crrashh1542',
    name: '云萧咕咕',
-   age: 18,
+   age: 19,
    mbti: 'ENFP-T',
    devEnv: 'ASUS Tianxuan 6 Laptop Ryzen Edition',
    gpgPubKey: 'A8B6 C17C B0D2 1DBC'
 }
 ```
-
-<font size="1">* 头像来自Pixiv（作品ID：[84681336](https://www.pixiv.net/artworks/84681336)）</font>
