@@ -20,7 +20,12 @@ export default {
    age: 19,
    mbti: 'ENFP-T',
    interest: ['Frontend', 'Embbedded', 'Windows', 'Android'],
-   env: 'ASUS Tianxuan 6 Laptop Ryzen Edition',
-   gpgPubKey: 'A8B6 C17C B0D2 1DBC'
+   env: {
+      hardware: 'ASUS Tianxuan 6 Laptop Ryzen Edition',
+      os_main: 'Windows 11 26H1',
+      os_second: 'Fedora 44',
+      os_server: 'Debian 13'
+   },
+   gpg_pubkey: 'A8B6 C17C B0D2 1DBC'
 }
 ```
