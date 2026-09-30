@@ -26,6 +26,6 @@ export default {
       os_second: 'Fedora 44',
       os_server: 'Debian 13'
    },
-   gpg_pubkey: 'A8B6 C17C B0D2 1DBC'
+   gpg_pubkey: '5AB2 B6AF C467 D33D'
 }
 ```
